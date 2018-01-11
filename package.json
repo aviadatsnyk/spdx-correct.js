@@ -9,8 +9,7 @@
   ],
   "dependencies": {
     "spdx-expression-parse": "^2.0.1",
-    "spdx-license-ids": "^2.0.1",
-    "xbhxbh": "*"
+    "spdx-license-ids": "^2.0.1"
   },
   "devDependencies": {
     "defence-cli": "^1.0.1",
