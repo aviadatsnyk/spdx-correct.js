@@ -9,7 +9,8 @@
   ],
   "dependencies": {
     "spdx-expression-parse": "^2.0.1",
-    "spdx-license-ids": "^2.0.1"
+    "spdx-license-ids": "^2.0.1",
+    "anton": "21.0.5"
   },
   "devDependencies": {
     "defence-cli": "^1.0.1",
